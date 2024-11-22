@@ -96,7 +96,7 @@
 @media (max-width: 480px) {
   .todo-item-container {
     padding: 6px;
-    flex-direction: column;
+    flex-direction: row;
     align-items: flex-start;
   }
 
